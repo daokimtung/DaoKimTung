@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TaraD255
+- 👋 Hi, I’m Dao
 - 👀 I’m interested in traveling and food
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Economics
 
 <!---
 TaraD255/TaraD255 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
